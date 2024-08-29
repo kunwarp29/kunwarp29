@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kunwar Pratap
-- 👀 I’m interested in data structure & algorithms
+- 👀 I’m interested in data engineering.
 - 🌱 I have done projects in data engineering, deep learning and web technology.
 - 📫 Reach me @ kunwarpratap353@gmail.com
 
