@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kunwar Pratap
 - 👀 I’m interested in data structure & algorithms
-- 🌱 I have done projects in deep learning and web technology.
+- 🌱 I have done projects in data engineering, deep learning and web technology.
 - 📫 Reach me @ kunwarpratap353@gmail.com
 
 <!---
